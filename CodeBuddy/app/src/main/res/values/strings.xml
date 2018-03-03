@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodeBuddy</string>
+    <string name="signInTitle">Sign In</string>
+    <string name="logInTitle">Log in</string>
+</resources>
